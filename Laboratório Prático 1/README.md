@@ -8,27 +8,27 @@ Para entender completamente o impacto deste dashboard, fornecemos respostas tran
 
 ### Pergunta 1 - Qual o valor total vendido?
 
-Métrica Chave: Valor total das vendas
+Métrica Chave: Valor total das vendas   
 Significado: Avalia a performance geral de vendas.
 
 ### Pergunta 2 - Quantas vendas foram realizadas por categoria de produto?
 
-Métrica Chave: Número de vendas por categoria
+Métrica Chave: Número de vendas por categoria   
 Significado: Identifica quais categorias têm maior demanda e desempenho.
 
 ### Pergunta 3 - Quantas vendas foram realizadas por país considerando a prioridade de entrega?
 
-Métrica Chave: Número de vendas por país e prioridade de entrega
+Métrica Chave: Número de vendas por país e prioridade de entrega   
 Significado: Destaca a eficiência da cadeia de suprimentos e as preferências de entrega por país.
 
 ### Pergunta 4 - Qual foi a média de desconto nas vendas por subcategoria de produto?
 
-Métrica Chave: Média de desconto por subcategoria
+Métrica Chave: Média de desconto por subcategoria   
 Significado: Avalia como os descontos impactam diferentes tipos de produtos.
 
 ### Pergunta 5 - Quais países tiveram maior média de valor de venda? Demonstre em um mapa.
 
-Métrica Chave: Média de valor de venda por país
+Métrica Chave: Média de valor de venda por país   
 Significado: Identifica os países com maior potencial de receita e destaca visualmente essas regiões em um mapa.
 
 ## Valor para a Empresa
