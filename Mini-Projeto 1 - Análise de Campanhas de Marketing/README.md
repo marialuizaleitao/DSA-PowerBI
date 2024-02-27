@@ -46,8 +46,8 @@ Cada visão deste mini projeto proporciona respostas às perguntas fundamentais 
 
 Este mini projeto vai além da simples visualização de dados; ele oferece insights acionáveis para impulsionar estratégias de marketing. As análises detalhadas de clientes, comportamento, campanhas e pontos de venda capacitam a equipe de marketing a:
 
-`Personalizar Estratégias:` Compreender o comportamento do cliente para estratégias de marketing personalizadas.
-`Otimizar Campanhas:` Identificar campanhas de alto desempenho e ajustar estratégias para maximizar o ROI.
+`Personalizar Estratégias:` Compreender o comportamento do cliente para estratégias de marketing personalizadas.    
+`Otimizar Campanhas:` Identificar campanhas de alto desempenho e ajustar estratégias para maximizar o ROI.    
 `Alocar Recursos Eficientemente:` Analisar gastos em pontos de venda para otimizar a alocação de recursos.
 
 Este mini projeto é uma poderosa ferramenta de análise para impulsionar o sucesso do departamento de marketing. Explore cada visão e descubra como dados podem ser transformados em estratégias acionáveis! 💡
